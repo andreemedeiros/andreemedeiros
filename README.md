@@ -1,14 +1,16 @@
 ### Hi 👋 I'm André Medeiros
-
+##
 - 🔭 I’m currently working on Software Testing and Hardware Verification.
 - 📫 How to reach me: andre.escariao1@gmail.com
-  
-##
 
-<div>
+## My Stats
+<div align="center">
   <img height=180cm src="https://github-readme-stats.vercel.app/api?username=andreemedeiros&show_icons=true&theme=transparent" />
   <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreemedeiros&layout=compact&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreemedeiros&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
 
 ## 🌐 Socials:
 <div> 
